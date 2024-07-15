@@ -1,8 +1,7 @@
-# maps_markers
+
+# Flutter Gmaps
 
 Hello folks🙌
-
-Source code Gmap with multiple marker
 
 ###### TESTED ON ANDROID 12L
 
@@ -17,6 +16,7 @@ Feature:
 > IMPORTANT
 Before you run this code, you have to create a project at Google Developers Console. This is required because you will need API key to integrate Google Maps in this code.
 After you get API key, copy your API key to "android/app/src/main/AndroidManifest.xml" (Android).
+
 
 *Preview on my Instagram :*
 [Contact me | Follow me](https://znap.link/haquix.design "Contact me | Follow me")
