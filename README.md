@@ -1,5 +1,5 @@
 
-# Flutter Gmaps Marker
+# Flutter Gmaps
 
 Hello folks🙌
 
